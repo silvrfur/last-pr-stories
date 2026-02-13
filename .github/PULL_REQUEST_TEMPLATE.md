@@ -6,7 +6,7 @@ Please make sure:
 -->
 
 ## PR status
-<!-- merged / closed — and mention if this was your first PR -->
+<!-- merged / closed (not merged) / still open — and mention if this was your first PR -->
 
 ## Link to your PR (optional)
 <!-- paste the PR link you're talking about -->

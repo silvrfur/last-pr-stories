@@ -1,16 +1,17 @@
 <!--
-Suggested PR title:
-Story: <your-username>'s last PR experience
--->
+Please make sure:
 
-## GitHub username
-<!-- your username -->
+- You created a file named `your-github-username.md`
+- Your story is written inside that file
+-->
 
 ## Link to your PR
 <!-- paste the PR link you're talking about -->
 
-## What happened?
-<!-- tell the story -->
+## Rate this PR experience from 1–10 (optional)
+<!-- emotional damage scale included  -->
 
-## One thing you learned
-<!-- lesson or insight -->
+<!--
+Suggested PR title:
+Story: <your-username>'s last PR experience
+-->
